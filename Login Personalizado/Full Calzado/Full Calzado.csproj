@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C8E8AB6-EA37-41D4-9701-4D4D5012C500}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Full_Calzado</RootNamespace>
+    <AssemblyName>Full Calzado</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=4.1.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BloqueoSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloqueoSesion.Designer.cs">
+      <DependentUpon>BloqueoSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlRutaNotificaciones.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeAlgoSalioMal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeAlgoSalioMal.Designer.cs">
+      <DependentUpon>MensajeAlgoSalioMal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeAprobacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeAprobacion.Designer.cs">
+      <DependentUpon>MensajeAprobacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeCierreSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeCierreSesion.Designer.cs">
+      <DependentUpon>MensajeCierreSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeErrorCamposVacios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeErrorCamposVacios.Designer.cs">
+      <DependentUpon>MensajeErrorCamposVacios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeErrorDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeErrorDB.Designer.cs">
+      <DependentUpon>MensajeErrorDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeErrorDuplicados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeErrorDuplicados.Designer.cs">
+      <DependentUpon>MensajeErrorDuplicados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeErrorEliminarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeErrorEliminarDatos.Designer.cs">
+      <DependentUpon>MensajeErrorEliminarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeErrorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeErrorLogin.Designer.cs">
+      <DependentUpon>MensajeErrorLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeExportarExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeExportarExcel.Designer.cs">
+      <DependentUpon>MensajeExportarExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeExportarPDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeExportarPDF.Designer.cs">
+      <DependentUpon>MensajeExportarPDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeLimpieza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeLimpieza.Designer.cs">
+      <DependentUpon>MensajeLimpieza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeNoseInsertaFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeNoseInsertaFactura.Designer.cs">
+      <DependentUpon>MensajeNoseInsertaFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeNoHayDatosQueCargar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeNoHayDatosQueCargar.Designer.cs">
+      <DependentUpon>MensajeNoHayDatosQueCargar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeNoSeleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeNoSeleccion.Designer.cs">
+      <DependentUpon>MensajeNoSeleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajePreguntaAccionesWF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajePreguntaAccionesWF.Designer.cs">
+      <DependentUpon>MensajePreguntaAccionesWF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotificacionesPersonalizadas.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BloqueoSesion.resx">
+      <DependentUpon>BloqueoSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeAlgoSalioMal.resx">
+      <DependentUpon>MensajeAlgoSalioMal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeAprobacion.resx">
+      <DependentUpon>MensajeAprobacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeCierreSesion.resx">
+      <DependentUpon>MensajeCierreSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeErrorCamposVacios.resx">
+      <DependentUpon>MensajeErrorCamposVacios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeErrorDB.resx">
+      <DependentUpon>MensajeErrorDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeErrorDuplicados.resx">
+      <DependentUpon>MensajeErrorDuplicados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeErrorEliminarDatos.resx">
+      <DependentUpon>MensajeErrorEliminarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeErrorLogin.resx">
+      <DependentUpon>MensajeErrorLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeExportarExcel.resx">
+      <DependentUpon>MensajeExportarExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeExportarPDF.resx">
+      <DependentUpon>MensajeExportarPDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeLimpieza.resx">
+      <DependentUpon>MensajeLimpieza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeNoseInsertaFactura.resx">
+      <DependentUpon>MensajeNoseInsertaFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeNoHayDatosQueCargar.resx">
+      <DependentUpon>MensajeNoHayDatosQueCargar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeNoSeleccion.resx">
+      <DependentUpon>MensajeNoSeleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajePreguntaAccionesWF.resx">
+      <DependentUpon>MensajePreguntaAccionesWF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

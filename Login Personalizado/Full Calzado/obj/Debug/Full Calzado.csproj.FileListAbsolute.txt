@@ -1,0 +1,317 @@
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.Cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.Cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BloqueoSesion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\WinFormAnimation.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAprobacion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDuplicados.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeLimpieza.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoSeleccion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajePreguntaAccionesWF.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorEliminarDatos.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeCierreSesion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\CircularProgressBar.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\WinFormAnimation.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Administradores.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.AtencionAlClienteFC.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BienvenidaUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BloqueoSesion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaUsuariosAmpliada.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarRolesUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EmpleadosSistemaAdmin.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.FacturacionFullCalzado.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazAdmins.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoUsuariosAdmins.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAprobacion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeCierreSesion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDuplicados.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorEliminarDatos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeLimpieza.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoSeleccion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajePreguntaAccionesWF.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarRolesUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarUsuarios.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevoVistaRoles.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.PresidenciaAdministracion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ProductosRegistradosAdmin.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RecursosHumanosDpto.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.UsuariosRegistradosSistema.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.VentasClientesFC.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoEmpleados.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoProductos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.ResolveComReference.cache
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarEmpleados.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdEmpleado.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarEmpleados.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RegistrarCargos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarCargos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarExcel.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarPDF.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductoAmpliada.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarProducto.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdProductos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarProducto.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevaVistaProducto.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarVistaCategoria.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarVistaCategoria.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.ResolveComReference.cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\CircularProgressBar.dll
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\WinFormAnimation.dll
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Administradores.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.AtencionAlClienteFC.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BienvenidaUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BloqueoSesion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductoAmpliada.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductosAmpliados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaUsuariosAmpliada.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarCargos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarRolesUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarVistaCategoria.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EmpleadosSistemaAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.FacturacionFullCalzado.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazAdmins.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InventariosAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoProductos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoUsuariosAdmins.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAprobacion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeCierreSesion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDuplicados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorEliminarDatos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarExcel.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarPDF.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeLimpieza.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoSeleccion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajePreguntaAccionesWF.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdEmpleado.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdProductos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarRolesUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarVistaCategoria.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevaVistaProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevoVistaRoles.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.PresidenciaAdministracion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ProductosRegistradosAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RecursosHumanosDpto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RegistrarCargos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.UsuariosRegistradosSistema.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.VentasClientesFC.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V (1)\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.Cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.ResolveComReference.cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\CircularProgressBar.dll
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\WinFormAnimation.dll
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Administradores.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.AtencionAlClienteFC.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BienvenidaUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.BloqueoSesion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductoAmpliada.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductosAmpliados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaUsuariosAmpliada.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarCargos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarRolesUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarVistaCategoria.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EmpleadosSistemaAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.FacturacionFullCalzado.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazAdmins.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InventariosAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoProductos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoPersonalizadoUsuariosAdmins.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAprobacion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeCierreSesion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDuplicados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorEliminarDatos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarExcel.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarPDF.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeLimpieza.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoSeleccion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajePreguntaAccionesWF.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarEmpleados.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdEmpleado.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdProductos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarIdUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarRolesUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarUsuarios.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarVistaCategoria.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevaVistaProducto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevoVistaRoles.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.PresidenciaAdministracion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ProductosRegistradosAdmin.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RecursosHumanosDpto.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.RegistrarCargos.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.UsuariosRegistradosSistema.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.VentasClientesFC.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.Cache
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarVistaCargo.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazAtencionClienteFC.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.inicioInterfazFacturacion.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazPrecidencia.resources
+C:\Users\15-db0005la\Desktop\Full Calzado S.A de C.V\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazHHRR.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.EliminarFactura.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazAtencionClienteFC.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.inicioInterfazFacturacion.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazHHRR.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.InicioInterfazPrecidencia.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ListadoDetalladoFactura.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ModificarVistaCargo.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.FormulariosPresidencia.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevoVistaFormaPago.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.NuevoVistaTipoDoc.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaFacturacionAmpliada.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaProductoAmpliadaBoton.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ConsultaEmpleadosAmpliada.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.FormulariosRRHH.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\RdlCompile.cache
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\RdlCompile.compiled
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteListadoEmpleados.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteVentasTD.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteVentasCCF.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteVentasDiarias.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteVTpormes.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteDañosFallosAverias.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteMontosTotalProductos.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteListadoProducto.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteVentasEmpelado.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.ReporteTotalPagoporCargo.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAlgoSalioMal.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoHayDatosQueCargar.resources
+C:\Users\ferna\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoseInsertaFactura.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full Calzado.csproj.ResolveComReference.cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeAlgoSalioMal.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarExcel.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarPDF.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoseInsertaFactura.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoHayDatosQueCargar.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Full Calzado\Full Calzado\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\Full Calzado.exe.config
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full Calzado.csproj.ResolveComReference.cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\Full Calzado.exe
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\Full Calzado.pdb
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\WinFormAnimation.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full Calzado.csprojResolveAssemblyReference.cache
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.BloqueoSesion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.LoginUsuarios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeAlgoSalioMal.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeAprobacion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeCierreSesion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorCamposVacios.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDB.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorDuplicados.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorEliminarDatos.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeErrorLogin.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarExcel.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeExportarPDF.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeLimpieza.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoseInsertaFactura.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoHayDatosQueCargar.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajeNoSeleccion.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.MensajePreguntaAccionesWF.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full_Calzado.Properties.Resources.resources
+C:\Users\dany__000\Desktop\Full Calzado S.A de C.V\Login Personalizado\Full Calzado\obj\Debug\Full Calzado.csproj.GenerateResource.Cache
